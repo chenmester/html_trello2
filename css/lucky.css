@@ -1,6 +1,5 @@
 body{
     background-color: #fbefdb ;
-    
 }
 
 nav{
@@ -28,7 +27,7 @@ nav a:first-child img{
 }
 
 .banner{
-    background-image: url(../img/coffees/);
+    background-image: url(../img/coffees/coffee-brain-caffeine-neuroscincces.webp);
     background-position: center center;
     background-size: cover;
     height: 400px;
